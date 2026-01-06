@@ -121,3 +121,4 @@ Mid week b3
 Mid week b4
 Mid week b5
 Mid week b6
+Mid week b7

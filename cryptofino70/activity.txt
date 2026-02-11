@@ -41,3 +41,4 @@ Extra activity 2
 Extra activity 3
 Extra activity 4
 Extra activity 5
+Extra activity 6
